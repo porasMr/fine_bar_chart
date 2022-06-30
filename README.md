@@ -16,7 +16,26 @@ know whether this package might be useful for them.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+
+TODO: Add package in yaml file
+
+Customized Bar chart
+like this:- FineBarChart(
+          barWidth: 30,
+          barHeight: 160,
+          backgroundColors: Colors.grey,
+          isBottomNameDisable: true,
+          isValueDisable: false,
+          textStyle: const TextStyle(
+            fontSize: 14,
+            color: Colors.black,
+          ),
+          barBackgroundColors: Colors.grey,
+          barValue: barValue,
+          barColors: barColors,
+          barBottomName: bottomBarName),
+    )
+
 
 ## Getting started
 
