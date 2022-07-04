@@ -27,6 +27,17 @@ start using the package.
 ## Usage
 
 TODO: Customized Bar chart
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Bar with value and bar name</h2>
+
+<img src="https://github.com/porasMr/fine_bar_chart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-06-30%20at%2015.35.56.png" style="width:104px;height:142px;">
+
+</body>
+</html>
+
 like this:- 
 
 FineBarChart(
