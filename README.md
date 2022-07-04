@@ -27,6 +27,10 @@ start using the package.
 ## Usage
 
 TODO: Customized Bar chart
+![alt text](https://github.com/porasMr/fine_bar_chart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-06-30%20at%2015.35.56.png)
+
+
+
 <!DOCTYPE html>
 <html>
 <body>
