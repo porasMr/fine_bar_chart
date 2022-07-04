@@ -27,78 +27,24 @@ start using the package.
 ## Usage
 
 TODO: Customized Bar chart
+
+**Bar with value and bar name**
+
 ![alt text](https://github.com/porasMr/fine_bar_chart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-06-30%20at%2015.35.56.png)
 
 
 
-<!DOCTYPE html>
-<html>
-<body>
+**Customized Bar with background color, and every bar have  different color and remove bottom bar name**
 
-<h2>Bar with value and bar name</h2>
-
-<img src="https://github.com/porasMr/fine_bar_chart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-06-30%20at%2015.35.56.png" style="width:104px;height:142px;">
-
-</body>
-</html>
+![alt text](https://github.com/porasMr/fine_bar_chart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-06-30%20at%2018.14.56.png)
 
 
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>Customized Bar with background color, and every bar have  different color and remove bottom bar name</h2>
-
-<img src="https://github.com/porasMr/fine_bar_chart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-06-30%20at%2018.14.56.png" style="width:104px;height:142px;">
-
-</body>
-</html>
 
 
-<!DOCTYPE html>
-<html>
-<body>
+**Change bar height with barWidth: 30, barHeight: 160,**
 
-<h1>Example</h2>
-
-<p>
-FineBarChart(
-          <br><spam style="margin-left:20px;">barWidth: 30,</spam><br>
-                   <spam style="margin-left:20px;">barHeight: 160,</spam><br>
-          <spam style="margin-left:20px;">backgroundColors: Colors.grey,</spam><br>
-          <spam style="margin-left:20px;">isBottomNameDisable: true,</Spam><br>
-          <spam style="margin-left:20px;">isValueDisable: false,</spam><br>
-          <spam style="margin-left:60px;">textStyle: const TextStyle(</spam><br>
-            <spam style="margin-left:60px;">fontSize: 14,</spam><br>
-            <spam style="margin-left:60px;">color: Colors.black,
-          ),</spam><br>
-          <spam style="margin-left:20px;">barBackgroundColors: Colors.grey,</spam><br>
-          <spam style="margin-left:20px;">barValue: barValue,</spam><br>
-          <spam style="margin-left:20px;">barColors: barColors,</spam><br>
-          <spam style="margin-left:20px;">barBottomName: bottomBarName),</spam><br>
-    )
-</p>
-
-</body>
-</html>
-
-
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>Change bar height with <br>barWidth: 30,<br>
-barHeight: 160,</h2>
-
-<img src="https://github.com/porasMr/fine_bar_chart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-06-30%20at%2021.10.49.png" style="width:104px;height:142px;">
-
-</body>
-</html>
-
-
-
+![alt text](https://github.com/porasMr/fine_bar_chart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-06-30%20at%2021.10.49.png)
 
 
 ## Additional information
