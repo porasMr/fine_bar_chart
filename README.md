@@ -27,7 +27,9 @@ start using the package.
 ## Usage
 
 TODO: Customized Bar chart
-like this:- FineBarChart(
+like this:- 
+
+FineBarChart(
           barWidth: 30,
           barHeight: 160,
           backgroundColors: Colors.grey,
